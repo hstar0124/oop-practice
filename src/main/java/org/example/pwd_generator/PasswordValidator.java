@@ -1,4 +1,4 @@
-package org.testcode;
+package org.example.pwd_generator;
 
 public class PasswordValidator {
 

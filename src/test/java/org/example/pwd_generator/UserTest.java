@@ -1,4 +1,4 @@
-package org.testcode;
+package org.example.pwd_generator;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

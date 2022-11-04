@@ -1,11 +1,11 @@
-package org.testcode;
+package org.example.pwd_generator;
 
 import org.passay.CharacterData;
 import org.passay.CharacterRule;
 import org.passay.EnglishCharacterData;
 import org.passay.PasswordGenerator;
 
-public class RandomPasswordGenerator implements org.testcode.PasswordGenerator {
+public class RandomPasswordGenerator implements org.example.pwd_generator.PasswordGenerator {
     /**
      * Special characters allowed in password.
      */

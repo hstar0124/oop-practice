@@ -1,4 +1,4 @@
-package org.testcode;
+package org.example.pwd_generator;
 
 @FunctionalInterface
 public interface PasswordGenerator {

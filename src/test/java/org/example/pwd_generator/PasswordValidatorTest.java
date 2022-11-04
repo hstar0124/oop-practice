@@ -1,5 +1,6 @@
-package org.testcode;
+package org.example.pwd_generator;
 
+import org.example.pwd_generator.PasswordValidator;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
